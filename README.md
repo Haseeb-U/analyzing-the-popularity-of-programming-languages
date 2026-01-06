@@ -64,4 +64,4 @@ The data confirms that while new frameworks emerge, the core languages (JavaScri
 
 I am a passionate data analyst dedicated to deriving actionable insights from complex datasets. My expertise lies in Python, SQL, and Data Visualization.
 
-*   **LinkedIn:** [Haseeb Uddin Q.](https://www.linkedin.com/in/haseeb-uddin-q/)
+*   **LinkedIn:** [Haseeb Uddin](https://www.linkedin.com/in/haseeb-uddin-q/)
